@@ -6,6 +6,9 @@ Dette er et værktøj til at downloade opgaver fra alle 3 på Lectio. For at bru
 - `node index.mjs`
 - Kopier mappen "Opgaver" til USB-stik eller online drev
 
+NOTE 1: Karakterer og andre data omkring opgaven findes i filerne _"detailed_metadata.json"_ og _"simple_metadata.json"_.
+
+NOTE 2: Der påhviler i intet tilfælde Mathias Gredal nogen erstatningspligt for skader af nogen art, som opstår ved brug af eller manglende evne til at bruge dette program.
 ### Demo video:
 https://user-images.githubusercontent.com/20731972/122622431-ee817500-d098-11eb-9c50-6d425c6ea3a0.mov
 
