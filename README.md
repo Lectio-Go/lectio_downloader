@@ -1,5 +1,5 @@
 # Lectio Downloader
-Dette er et værktøj til at downloade opgaver fra alle 3 år på Lectio. For at bruge det kræver det at man har installeret Git, Node.JS og NPM. Efter det kan man blot følge instrukserne herunder(skal køres i terminal eller kommando-prompt):
+Dette er et værktøj til at downloade opgaver fra alle 3 år på Lectio. For at bruge programmet kræver det at man har installeret Git, Node.JS og NPM. Efter det kan man blot følge instrukserne herunder(skal køres i terminal eller kommando-prompt):
 - `git clone https://github.com/mathiasgredal/lectio_downloader.git`
 - `cd lectio_downloader`
 - `npm install`
